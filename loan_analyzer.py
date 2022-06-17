@@ -13,6 +13,10 @@ First, let's start with some calculations on a list of prices for 5 loans.
     4. Print all calculations with descriptive messages.
 """
 loan_costs = [500, 600, 200, 1000, 450]
+len(loan_costs)
+total_number_of_loans = len(loan_costs )
+print("Python list size will be ", total_number_of_loans)
+
 
 # How many loans are in the list?
 # @TODO: Use the `len` function to calculate the total number of loans in the list.
